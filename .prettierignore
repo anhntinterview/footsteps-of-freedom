@@ -1,0 +1,17 @@
+.DS_Store
+.next/
+.turbo
+node_modules
+out/
+build
+dist
+.env
+.env.*
+!.env.example
+next.config.js*
+
+# Ignore files for PNPM, NPM and YARN
+pnpm-lock.yaml
+pnpm-workspace.yaml
+package-lock.json
+yarn.lock

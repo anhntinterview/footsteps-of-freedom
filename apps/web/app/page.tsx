@@ -1,3 +1,8 @@
+export default function Home() {
+  return <div className="">Hi this is Home</div>;
+}
+
+/*
 import Image from "next/image";
 import { Card } from "@repo/ui/card";
 import { Code } from "@repo/ui/code";
@@ -142,3 +147,4 @@ export default function Page(): JSX.Element {
     </main>
   );
 }
+*/
